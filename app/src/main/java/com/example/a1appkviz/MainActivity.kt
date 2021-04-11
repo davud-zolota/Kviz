@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
     var pitanja: List<Pitanje> = listOf<Pitanje>(
         Pitanje("Da li je Sarajevo glvni grad bih", true),
         Pitanje("da li je nebo plavo", true),
-        Pitanje("Da li je trava crvena", false)
+        Pitanje("Da li je trava crvena", false),
+        Pitanje("Da li je trava zelena", false)
 
 
     )
